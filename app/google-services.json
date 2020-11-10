@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "461533591667",
+    "firebase_url": "https://bubbletok-9329a.firebaseio.com",
+    "project_id": "bubbletok-9329a",
+    "storage_bucket": "bubbletok-9329a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461533591667:android:de9a0b81b9d50f1586d206",
+        "android_client_info": {
+          "package_name": "com.retrytech.vilo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461533591667-8oietpahf57a69636qa9rtibj9lrd9on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBceKHwzLvQuoxJfXNl8PTKwAPuc6kgo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461533591667-8oietpahf57a69636qa9rtibj9lrd9on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
